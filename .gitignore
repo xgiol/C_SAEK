@@ -1,0 +1,28 @@
+# Φάκελοι build (CMake)
+build/
+out/
+cmake-build-*/
+
+# Εκτελέσιμα / αντικείμενα
+*.o
+*.obj
+*.exe
+*.out
+
+# Αρχεία που δημιουργούνται από τα παραδείγματα της Εβδομάδας 15 (I/O αρχείων)
+tainies.txt
+antigrafo.txt
+imerologio.txt
+mathites.txt
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# macOS
+.DS_Store
+
+# Windows system files
+Thumbs.db
+Desktop.ini
